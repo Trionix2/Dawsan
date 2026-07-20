@@ -1,6 +1,4 @@
 
-*   **Trionix2** - [GitHub Profile](https://github.com/Trionix2)
-
 # Dawsanm Realtors 🏡
 
 A sleek, minimalist, and lightweight digital marketplace portal designed to bridge real estate and automotive commerce listings. Built entirely with a clean front-end architecture, this platform offers a fast, friction-free user experience for viewing and managing premium property and vehicle entries.
@@ -33,3 +31,9 @@ A sleek, minimalist, and lightweight digital marketplace portal designed to brid
 ├── Script/       # Core JavaScript engine and application logic
 ├── index.html    # Main portal entry point
 └── README.md     # Project documentation
+```
+---
+
+## 👤 Developer
+
+*   **Trionix2** - [GitHub Profile](https://github.com/Trionix2)
