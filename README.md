@@ -1,4 +1,3 @@
-## 👤 Developer
 
 *   **Trionix2** - [GitHub Profile](https://github.com/Trionix2)
 
